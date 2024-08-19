@@ -1,0 +1,8 @@
+.hero {
+    background-image: url(./Bootstrap/images/hero.jpg);
+    height: 70vh;
+}
+
+.subscribe{
+    padding: 100px 0;
+}
